@@ -46,3 +46,6 @@ gem 'active_model_serializers'
 #faker
 gem 'faker'
 
+# rack cors lets other domain to access the api
+gem 'rack-cors'
+
