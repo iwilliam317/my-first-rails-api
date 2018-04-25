@@ -49,3 +49,6 @@ gem 'faker'
 # rack cors lets other domain to access the api
 gem 'rack-cors'
 
+#rack attack protects api from multiple requests
+gem 'rack-attack'
+
