@@ -52,3 +52,4 @@ gem 'rack-cors'
 #rack attack protects api from multiple requests
 gem 'rack-attack'
 
+gem 'devise'

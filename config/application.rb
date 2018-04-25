@@ -37,10 +37,9 @@ module MyFirstRailsApi
        resource '*',     
          headers: :any,     
          methods: %i(get post put patch delete options head)     
-     end
-        
+     end        
+    end
     # protecting api
      config.middleware.use Rack::Attack
-    end
   end
 end
