@@ -1,24 +1,21 @@
-# README
+# my-first-rails-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### my-first-rails-api is a basic api project for CRUD contacts. 
+### It has authentication with Devise and Simple Token, also protection against multiple requests attacks using Rack Attack
 
-Things you may want to cover:
+This is what was used:
 
-* Ruby version
+* Ruby
 
-* System dependencies
+* Ruby On Rails
 
-* Configuration
+* Devise
 
-* Database creation
+* Devise Simple Token
 
-* Database initialization
+* Rack Cors
 
-* How to run the test suite
+* Rack Attack
 
-* Services (job queues, cache servers, search engines, etc.)
+* Postman 
 
-* Deployment instructions
-
-* ...
